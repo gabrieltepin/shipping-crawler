@@ -1,0 +1,13 @@
+i) get items to request from a list then check the results to compare prices
+
+ii) create bin folder and a script to execute the src code
+
+iii) create requester from other companies
+
+iv) this code is currently focused on results from BR region, it can be refactored to allow other regions
+
+v) crawl websites for offers can be easy from here though (e.g. looking for items in Amazon with OFERTA label)
+
+vi) the results should be collected in the output directory
+
+vii) set attributes inside classes to private or public depending on purpose
