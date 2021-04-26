@@ -6,8 +6,6 @@ This crawler focus on gathering information about shipping products from e-comme
 
 Having all external modules installed, just run from the top project folder:
 
-`python src/main.py`
-
-Also, it was written for python3 version
+`python3 src/main.py`
 
 <!-- For quick markdown preview in VSCode: command+shift+P here and enter >Markdown: open preview to the side -->
